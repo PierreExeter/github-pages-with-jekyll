@@ -1,5 +1,5 @@
 ---
-title: "amazing title"
+title: "my_super_title"
 date: 2020-03-28
 ---
 
